@@ -29,7 +29,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338fdf3a-3fd3-468b-987f-590fb101436d" name="Default Changelist" comment="" />
+    <list default="true" id="338fdf3a-3fd3-468b-987f-590fb101436d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reanimators/src/main/java/com/unco/reanimators/module/modules/movement/Velocity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reanimators/src/main/java/com/unco/reanimators/module/modules/movement/Velocity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -71,6 +75,8 @@
       <updated>1590034120227</updated>
       <workItem from="1590034122115" duration="2761000" />
       <workItem from="1590041439899" duration="658000" />
+      <workItem from="1590043881711" duration="1429000" />
+      <workItem from="1590047631757" duration="1123000" />
     </task>
     <servers />
   </component>
@@ -98,14 +104,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1280.155.1280.680@0.0.1920.1040" timestamp="1590041814357" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1590042062576">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1590047067201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1280.155.1280.680@0.0.1920.1040" timestamp="1590042062576" />
-    <state x="625" y="224" width="765" height="592" key="NewModule_or_Project.wizard" timestamp="1590042095697">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1280.155.1280.680@0.0.1920.1040" timestamp="1590047067201" />
+    <state x="625" y="224" width="765" height="592" key="NewModule_or_Project.wizard" timestamp="1590047081138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="625" y="224" width="765" height="592" key="NewModule_or_Project.wizard/0.0.1920.1040/-1280.155.1280.680@0.0.1920.1040" timestamp="1590042095697" />
+    <state x="625" y="224" width="765" height="592" key="NewModule_or_Project.wizard/0.0.1920.1040/-1280.155.1280.680@0.0.1920.1040" timestamp="1590047081138" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1590041983950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
