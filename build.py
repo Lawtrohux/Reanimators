@@ -9,7 +9,7 @@ class Compile:
 		import shutil
 		try:
 			shutil.copyfile("Reanimators/build/libs/Reanimators-b1.jar", os.getenv("APPDATA") + "\\.minecraft\\mods\\Reanimators-b3.jar")
-			os.system("start C:/Program Files (x86)/Minecraft Launcer/MinecraftLauncher")
+			os.system("start C:/Program Files (x86)/Minecraft Launcher/MinecraftLauncher")
 			print("You got it champ!")
 		except:
 			print("Error!")

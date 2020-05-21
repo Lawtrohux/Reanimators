@@ -15,7 +15,7 @@ public class DeathExcuse extends Module {
 
    public void onUpdate() {
       ++this.delay;
-      List myList = Arrays.asList("Lag", "desync", "LOL DESYNC", "WOW GOT DDOSED RIGHT THERE", "Wow Died Because of Ping", "Stupid Ping Players", "Ghost Block");
+      List myList = Arrays.asList("Lag", "desync", "LOL DESYNC", "WOW GOT DDOSED RIGHT THERE", "Fucking Bowkickers", "Stupid Ping Players", "Ghost Block", "Cat ran over my keyboard smh");
       Random r = new Random();
       int randomitem = r.nextInt(myList.size());
       String randomElement = (String)myList.get(randomitem);
