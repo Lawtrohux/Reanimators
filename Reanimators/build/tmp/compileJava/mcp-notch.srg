@@ -1,0 +1,18 @@
+FD: com/unco/reanimators/mixin/client/MixinC00Handshake/protocolVersion com/unco/reanimators/mixin/client/MixinC00Handshake/a
+FD: com/unco/reanimators/mixin/client/MixinC00Handshake/ip com/unco/reanimators/mixin/client/MixinC00Handshake/b
+FD: com/unco/reanimators/mixin/client/MixinC00Handshake/port com/unco/reanimators/mixin/client/MixinC00Handshake/c
+FD: com/unco/reanimators/mixin/client/MixinC00Handshake/requestedState com/unco/reanimators/mixin/client/MixinC00Handshake/d
+FD: com/unco/reanimators/mixin/client/MixinGuiChat/inputField com/unco/reanimators/mixin/client/MixinGuiChat/a
+FD: com/unco/reanimators/mixin/client/MixinGuiChat/historyBuffer com/unco/reanimators/mixin/client/MixinGuiChat/g
+FD: com/unco/reanimators/mixin/client/MixinGuiChat/sentHistoryCursor com/unco/reanimators/mixin/client/MixinGuiChat/h
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/world com/unco/reanimators/mixin/client/MixinMinecraft/f
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/player com/unco/reanimators/mixin/client/MixinMinecraft/h
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/currentScreen com/unco/reanimators/mixin/client/MixinMinecraft/m
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/gameSettings com/unco/reanimators/mixin/client/MixinMinecraft/t
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/ingameGUI com/unco/reanimators/mixin/client/MixinMinecraft/q
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/skipRenderWorld com/unco/reanimators/mixin/client/MixinMinecraft/r
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/soundHandler com/unco/reanimators/mixin/client/MixinMinecraft/aL
+FD: com/unco/reanimators/mixin/client/MixinRenderGlobal/mc com/unco/reanimators/mixin/client/MixinRenderGlobal/h
+FD: com/unco/reanimators/mixin/client/MixinRenderGlobal/renderContainer com/unco/reanimators/mixin/client/MixinRenderGlobal/O
+FD: com/unco/reanimators/mixin/client/MixinStateImplementation/block com/unco/reanimators/mixin/client/MixinStateImplementation/a
+MD: com/unco/reanimators/mixin/client/MixinGuiChat/initGui ()V com/unco/reanimators/mixin/client/MixinGuiChat/b ()V

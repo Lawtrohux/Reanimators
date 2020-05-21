@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Reanimators:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Reanimators_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Reanimators.jar">
+        <element id="module-output" name="build" />
+        <element id="module-output" name="Reanimators" />
+      </element>
+      <element id="library" level="project" name="minecraft" />
+      <element id="library" level="project" name="libs" />
+      <element id="library" level="project" name="input3741739312981076816" />
+      <element id="library" level="project" name="input7141094440692154599" />
+    </root>
+  </artifact>
+</component>

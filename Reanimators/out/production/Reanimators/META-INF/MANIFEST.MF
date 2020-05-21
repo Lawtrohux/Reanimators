@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Class-Path: forgeBin-1.12.2-14.23.4.2705-PROJECT(Reanimators).jar forgeB
+ in-1.12.2-14.23.0.2531-PROJECT(Reanimators).jar forge-1.12.2-14.23.0.25
+ 31-PROJECT(Turok)-binpatched.jar forgeBin-1.12.2-14.23.0.2531-PROJECT(T
+ urok).jar forge-1.12.2-14.23.4.2705-PROJECT(Reanimators)-binpatched.jar
+  forge-1.12.2-14.23.0.2531-PROJECT(Reanimators)-binpatched.jar Reanimat
+ ors-b1.jar Reanimators-b1-release.jar input3741739312981076816.jar inpu
+ t7141094440692154599.jar
+Main-Class: net.minecraftforge.fml.common.asm.transformers.AccessTransfo
+ rmer
+

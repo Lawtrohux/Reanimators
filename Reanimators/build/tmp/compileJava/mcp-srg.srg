@@ -1,0 +1,18 @@
+FD: com/unco/reanimators/mixin/client/MixinC00Handshake/protocolVersion com/unco/reanimators/mixin/client/MixinC00Handshake/field_149600_a
+FD: com/unco/reanimators/mixin/client/MixinC00Handshake/ip com/unco/reanimators/mixin/client/MixinC00Handshake/field_149598_b
+FD: com/unco/reanimators/mixin/client/MixinC00Handshake/port com/unco/reanimators/mixin/client/MixinC00Handshake/field_149599_c
+FD: com/unco/reanimators/mixin/client/MixinC00Handshake/requestedState com/unco/reanimators/mixin/client/MixinC00Handshake/field_149597_d
+FD: com/unco/reanimators/mixin/client/MixinGuiChat/inputField com/unco/reanimators/mixin/client/MixinGuiChat/field_146415_a
+FD: com/unco/reanimators/mixin/client/MixinGuiChat/historyBuffer com/unco/reanimators/mixin/client/MixinGuiChat/field_146410_g
+FD: com/unco/reanimators/mixin/client/MixinGuiChat/sentHistoryCursor com/unco/reanimators/mixin/client/MixinGuiChat/field_146416_h
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/world com/unco/reanimators/mixin/client/MixinMinecraft/field_71441_e
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/player com/unco/reanimators/mixin/client/MixinMinecraft/field_71439_g
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/currentScreen com/unco/reanimators/mixin/client/MixinMinecraft/field_71462_r
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/gameSettings com/unco/reanimators/mixin/client/MixinMinecraft/field_71474_y
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/ingameGUI com/unco/reanimators/mixin/client/MixinMinecraft/field_71456_v
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/skipRenderWorld com/unco/reanimators/mixin/client/MixinMinecraft/field_71454_w
+FD: com/unco/reanimators/mixin/client/MixinMinecraft/soundHandler com/unco/reanimators/mixin/client/MixinMinecraft/field_147127_av
+FD: com/unco/reanimators/mixin/client/MixinRenderGlobal/mc com/unco/reanimators/mixin/client/MixinRenderGlobal/field_72777_q
+FD: com/unco/reanimators/mixin/client/MixinRenderGlobal/renderContainer com/unco/reanimators/mixin/client/MixinRenderGlobal/field_174996_N
+FD: com/unco/reanimators/mixin/client/MixinStateImplementation/block com/unco/reanimators/mixin/client/MixinStateImplementation/field_177239_a
+MD: com/unco/reanimators/mixin/client/MixinGuiChat/initGui ()V com/unco/reanimators/mixin/client/MixinGuiChat/func_73866_w_ ()V

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="minecraft">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/minecraft/forgeBin-1.12.2-14.23.4.2705-PROJECT(Reanimators).jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/minecraft/forgeBin-1.12.2-14.23.0.2531-PROJECT(Reanimators).jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/minecraft/forge-1.12.2-14.23.0.2531-PROJECT(Turok)-binpatched.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/minecraft/forgeBin-1.12.2-14.23.0.2531-PROJECT(Turok).jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/minecraft/forge-1.12.2-14.23.4.2705-PROJECT(Reanimators)-binpatched.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/minecraft/forge-1.12.2-14.23.0.2531-PROJECT(Reanimators)-binpatched.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
