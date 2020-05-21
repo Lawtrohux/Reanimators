@@ -1,15 +1,15 @@
 package com.unco.reanimators.impl.module.misc;
 
-import me.rigamortis.seppuku.api.event.EventStageable;
-import me.rigamortis.seppuku.api.event.network.EventReceivePacket;
-import me.rigamortis.seppuku.api.module.Module;
+import com.unco.reanimators.api.event.EventStageable;
+import com.unco.reanimators.api.event.network.EventReceivePacket;
+import com.unco.reanimators.api.module.Module;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.inventory.GuiCrafting;
 import net.minecraft.client.gui.inventory.GuiInventory;
 import net.minecraft.init.Items;
 import net.minecraft.inventory.ClickType;
 import net.minecraft.network.play.server.SPacketSetSlot;
-import team.stiff.pomelo.impl.annotated.handler.annotation.Listener;
+import club.minnced.impl.annotated.handler.annotation.Listener;
 
 /**
  * Shift clicks the crafting result into the inventory.
@@ -17,10 +17,8 @@ import team.stiff.pomelo.impl.annotated.handler.annotation.Listener;
  * @author Old Chum
  * @since 10/18/20
  */
-public final class QuickCraftModule extends Module {
-    public QuickCraftModule () {
-        super("QuickCraft", new String[]{"FastCraft", "qcraft"}, "Automatically collects the result when crafting.", "NONE", -1, Module.ModuleType.MISC);
-    }
+@Module.Info(name = "Fast Craft", description = "Automatically collects the result when crafting.")
+public class QuickCraftModule extends Module {
 
     @Listener
     public void onReceivePacket (EventReceivePacket event) {

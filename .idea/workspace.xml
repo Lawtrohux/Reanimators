@@ -29,7 +29,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338fdf3a-3fd3-468b-987f-590fb101436d" name="Default Changelist" comment="" />
+    <list default="true" id="338fdf3a-3fd3-468b-987f-590fb101436d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Reanimators/src/main/java/com/unco/reanimators/module/modules/misc/QuickCraftModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reanimators/src/main/java/com/unco/reanimators/module/modules/misc/QuickCraftModule.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +74,7 @@
       <workItem from="1590034122115" duration="2761000" />
       <workItem from="1590041439899" duration="658000" />
       <workItem from="1590043881711" duration="1429000" />
-      <workItem from="1590047631757" duration="1408000" />
+      <workItem from="1590047631757" duration="1563000" />
     </task>
     <servers />
   </component>

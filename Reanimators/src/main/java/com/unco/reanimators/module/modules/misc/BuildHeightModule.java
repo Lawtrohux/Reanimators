@@ -11,11 +11,8 @@ import team.stiff.pomelo.impl.annotated.handler.annotation.Listener;
  * Author Seth
  * 8/13/2019 @ 11:58 PM.
  */
-public final class BuildHeightModule extends Module {
-
-    public BuildHeightModule() {
-        super("BuildHeight", new String[] {"BuildH", "BHeight"}, "Allows you to interact with blocks at build height", "NONE", -1, ModuleType.MISC);
-    }
+@Module.Info(name = "Build Height", description = "Allows you to interact with blocks at build height")
+public class BuildHeightModule extends Module {
 
     @Listener
     public void sendPacket(EventSendPacket event) {
