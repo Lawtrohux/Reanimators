@@ -18,8 +18,8 @@ import club.minnced.impl.annotated.handler.annotation.Listener;
  * Author Seth
  * 5/2/2019 @ 4:39 AM.
  */
-@Module.Info(name = "Item Spoofer", description = "Allows you to display a different item server-side, useful for PVP")
-public final class ItemSpoofModule extends Module {
+@Module.Info(name = "Item Spoofer", category = Module.Category.MISC, description = "Allows you to display a different item server-side, useful for PVP")
+public class ItemSpoofModule extends Module {
 
     private boolean send;
     private Entity entity;

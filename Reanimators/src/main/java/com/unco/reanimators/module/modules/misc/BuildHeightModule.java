@@ -1,17 +1,17 @@
 package com.unco.reanimators.impl.module.misc;
 
-import me.rigamortis.seppuku.api.event.EventStageable;
-import me.rigamortis.seppuku.api.event.network.EventSendPacket;
-import me.rigamortis.seppuku.api.module.Module;
+import com.unco.reanimators.api.event.EventStageable;
+import com.unco.reanimators.api.event.network.EventSendPacket;
+import com.unco.reanimators.api.module.Module;
 import net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock;
 import net.minecraft.util.EnumFacing;
-import team.stiff.pomelo.impl.annotated.handler.annotation.Listener;
+import club.minnced.impl.annotated.handler.annotation.Listener;
 
 /**
  * Author Seth
  * 8/13/2019 @ 11:58 PM.
  */
-@Module.Info(name = "Build Height", description = "Allows you to interact with blocks at build height")
+@Module.Info(name = "Build Height", category = MISC, description = "Allows you to interact with blocks at build height")
 public class BuildHeightModule extends Module {
 
     @Listener

@@ -17,7 +17,7 @@ import club.minnced.impl.annotated.handler.annotation.Listener;
  * @author Old Chum
  * @since 10/18/20
  */
-@Module.Info(name = "Fast Craft", description = "Automatically collects the result when crafting.")
+@Module.Info(name = "Fast Craft", category = Module.Category.MISC, description = "Automatically collects the result when crafting.")
 public class QuickCraftModule extends Module {
 
     @Listener
