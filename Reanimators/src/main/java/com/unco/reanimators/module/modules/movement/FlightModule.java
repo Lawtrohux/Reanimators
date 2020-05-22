@@ -1,19 +1,19 @@
-package me.rigamortis.seppuku.impl.module.movement;
+package com.unco.reanimators.impl.module.movement;
 
-import me.rigamortis.seppuku.api.event.EventStageable;
-import me.rigamortis.seppuku.api.event.network.EventReceivePacket;
-import me.rigamortis.seppuku.api.event.network.EventSendPacket;
-import me.rigamortis.seppuku.api.event.player.EventUpdateWalkingPlayer;
-import me.rigamortis.seppuku.api.module.Module;
-import me.rigamortis.seppuku.api.util.MathUtil;
-import me.rigamortis.seppuku.api.value.Value;
+import com.unco.reanimators.api.event.EventStageable;
+import com.unco.reanimators.api.event.network.EventReceivePacket;
+import com.unco.reanimators.api.event.network.EventSendPacket;
+import com.unco.reanimators.api.event.player.EventUpdateWalkingPlayer;
+import com.unco.reanimators.api.module.Module;
+import com.unco.reanimators.api.util.MathUtil;
+import com.unco.reanimators.api.value.Value;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiDownloadTerrain;
 import net.minecraft.network.play.client.CPacketConfirmTeleport;
 import net.minecraft.network.play.client.CPacketPlayer;
 import net.minecraft.network.play.server.SPacketPlayerPosLook;
 import net.minecraft.util.math.BlockPos;
-import team.stiff.pomelo.impl.annotated.handler.annotation.Listener;
+import club.minnced.impl.annotated.handler.annotation.Listener;
 
 import java.util.ArrayList;
 import java.util.List;

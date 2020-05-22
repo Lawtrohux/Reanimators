@@ -15,7 +15,7 @@ public class ChatSuffix extends Module {
     private Setting<Boolean> commands = register(Settings.b("Commands", true));
     private Setting<Boolean> reanimatorsSuffix = register(Settings.b("Reanimators Suffix", true));
 
-    private final String REANIMATORS_SUFFIX = " \u23D0 \u0280\u1d07\u1d00\u0274\u026a\u1d0d\u1d00\u1d1b\u1d0f\u0280\ua731";
+    private final String REANIMATORS_SUFFIX = " \u23D0 ꜰᴜᴛᴜʀᴇɢᴏʟᴅ";
 
     boolean suffix_accept;
     String suffix;

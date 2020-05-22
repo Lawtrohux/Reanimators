@@ -1,0 +1,16 @@
+[
+{
+  "modid": "reanimators",
+  "name": "Future Gold",
+  "description": "Future Client, Gold for us specials.",
+  "version": "b3",
+  "mcversion": "1.12.2",
+  "url": "https://discord.gg/kqUqvUX",
+  "updateUrl": "",
+  "authorList": ["UncoChief, Soulbond, and a lot of others."],
+  "credits": "Thanks to bella for making all of this possible.",
+  "logoFile": "pack.jpg",
+  "screenshots": [],
+  "dependencies": []
+}
+]

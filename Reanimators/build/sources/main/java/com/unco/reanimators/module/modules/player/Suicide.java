@@ -9,7 +9,7 @@ import com.unco.reanimators.module.Module;
 public class Suicide extends Module {
 
     public void onEnabled() {
-        mc.player.sendChatMessage("/kill");
+        mc.player.sendChatMessage("You cannot kill me I am god");
         this.disable();
         }
 

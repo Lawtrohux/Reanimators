@@ -13,7 +13,7 @@ import net.minecraft.network.play.server.SPacketExplosion;
 
 @Module.Info(name = "Velocity", description = "Modify knockback.", category = Module.Category.MOVEMENT)
 public class Velocity extends Module {
-	private Setting<Float> horizontal = register(Settings.f("Horizontal", 0));
+    private Setting<Float> horizontal = register(Settings.f("Horizontal", 0));
 	private Setting<Float> vertical = register(Settings.f("Vertical", 0));
 
 	@EventHandler
